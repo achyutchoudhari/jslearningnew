@@ -18,4 +18,4 @@ function stringHandsOn()
    console.log(`10. Whether string starts with "Hey"? - ${result.startsWith("Hey")}`)
 
 }
-stringHandsOn();
+stringHandsOn(); 

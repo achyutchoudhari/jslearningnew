@@ -75,6 +75,11 @@ console.log(`Result of Less than < is: ${result}`);
 var result = 20 <= num4;
 console.log(`Result of Less than equal <= is: ${result}`);
 
+console.log(`+++++++++++++++++++++multiplication++++++++++++++++++`);
+var num1=10;
+var num2=2;
+var result=num1*num2;
+console.log('multiplication of resultbis: $ {result}');
 
 
 

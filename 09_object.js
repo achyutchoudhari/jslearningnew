@@ -41,3 +41,19 @@ let person = {
  }
  console.log(person);
  person.display();
+
+
+ console.log(`====== Nested Object =======`);
+const personElon = {
+    name: "Elon Musk",
+    age: 54,
+    totalCompany: 9,
+    companies: {
+        tesla: "300B USD",
+        twitter: "150B USD",
+        spacex: "200B USD"
+    },
+    kidsName: ["Deny", "Weny", "Rony", "Randy"]
+}
+
+console.log(personElon.companies.tesla);

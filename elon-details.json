@@ -1,0 +1,20 @@
+
+
+
+
+{"name": "elon ",
+"age": 54,
+"totalCompany": 9,
+"Companies": {
+    "tesla": "30000usd",
+    "twitter": "150B usd",
+    "spacex": "200B usd"
+},
+"kidName": [
+    "deny",
+    "weny",
+    "randy",
+    "mony",
+    "sony"
+]
+}

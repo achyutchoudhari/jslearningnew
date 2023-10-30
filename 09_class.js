@@ -31,3 +31,4 @@ class Person {
  for (const element of arrayPerson) {
     console.log(element)
  }
+ 

@@ -54,6 +54,10 @@ console.log(`======================array============`);
 const arrayVehicleDetail = [vehicleDetailsskoda,vehicleDetailsskoda , vehicleDetailsI10, vehicleDetailsShine];
  for (const element of arrayVehicleDetail) {
     console.log(element)
+
+
+    console.log(`====step2==========`);
+    
  }
 
 
